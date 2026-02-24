@@ -1,0 +1,93 @@
+═══════════════════════════════════════════════════════════════
+    GUÍA RÁPIDA - SUBIR A VERCEL EN 5 PASOS
+═══════════════════════════════════════════════════════════════
+
+📦 PASO 1: Descargar
+   └─ Descarga el archivo: asistencia-app.zip
+   └─ Descomprímelo en tu computadora
+
+🌐 PASO 2: Ir a Vercel
+   └─ Abre: https://vercel.com
+   └─ Clic en "Sign Up" (crear cuenta gratis)
+   └─ Usa GitHub o tu email
+
+🚀 PASO 3: Subir proyecto
+   └─ Una vez dentro, clic en "Add New Project"
+   └─ Arrastra la carpeta "asistencia-app" 
+   └─ Vercel detecta todo automáticamente
+   └─ Clic en "Deploy"
+   └─ Espera 2 minutos
+
+✅ PASO 4: Obtener tu link
+   └─ Vercel te da un link como:
+      https://asistencia-xyz123.vercel.app
+   └─ ¡Ese es tu link para siempre!
+   └─ Cópialo
+
+📍 PASO 5: Configurar GPS
+   └─ Abre tu link
+   └─ "Acceder como administrador"
+   └─ Pestaña "Configuración"
+   └─ Pega coordenadas GPS de cada sucursal
+
+═══════════════════════════════════════════════════════════════
+
+📱 COMPARTIR CON VENDEDORES:
+
+Mándales el link por WhatsApp:
+
+"Hola equipo, instalen esta app para registrar entrada:
+https://tu-link.vercel.app
+
+En Android: Se abre en Chrome → "Instalar app"
+En iPhone: Botón compartir → "Añadir a inicio"
+
+Cualquier duda me avisan 👍"
+
+═══════════════════════════════════════════════════════════════
+
+🗺️ SACAR COORDENADAS GPS:
+
+1. Google Maps → Busca tu tienda
+2. Clic derecho en el pin exacto
+3. Clic en los números que aparecen (19.xxxx, -99.xxxx)
+4. Ya están copiados
+5. Pégalos en Configuración
+
+═══════════════════════════════════════════════════════════════
+
+❓ DUDAS FRECUENTES:
+
+P: ¿Cuesta algo?
+R: Vercel es 100% gratis para este tipo de apps
+
+P: ¿Necesito saber programar?
+R: No, solo arrastrar archivos
+
+P: ¿Los vendedores necesitan crear cuenta?
+R: No, solo abrir el link e instalar
+
+P: ¿Funciona sin internet?
+R: Necesita internet para verificar GPS y guardar
+
+P: ¿Puedo cambiar configuraciones después?
+R: Sí, entras como admin y cambias lo que quieras
+
+P: ¿Se puede hackear el GPS?
+R: Muy difícil, necesitarían apps especializadas
+
+═══════════════════════════════════════════════════════════════
+
+🎯 CHECKLIST:
+
+□ Cuenta Vercel creada
+□ Proyecto subido
+□ Link funcionando
+□ GPS configurado (5 sucursales)
+□ Link enviado a vendedores
+□ Probaste registrar entrada
+□ Verificaste que guarde datos
+
+═══════════════════════════════════════════════════════════════
+
+¡LISTO! Ya tienes tu sistema funcionando 🚀
